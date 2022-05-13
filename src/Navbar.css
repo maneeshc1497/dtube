@@ -1,0 +1,11 @@
+.account{
+    color: rgb(180, 170, 170);
+}
+.navbar{
+    padding: 10px;
+    justify-content: space-between;
+}
+.navbar-brand strong{
+    
+    color: tomato;
+}
