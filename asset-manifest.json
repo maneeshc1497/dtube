@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dtube/static/css/main.583f90ae.css",
+    "main.js": "/dtube/static/js/main.3da60a62.js",
+    "index.html": "/dtube/index.html",
+    "main.583f90ae.css.map": "/dtube/static/css/main.583f90ae.css.map",
+    "main.3da60a62.js.map": "/dtube/static/js/main.3da60a62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583f90ae.css",
+    "static/js/main.3da60a62.js"
+  ]
+}
